@@ -1,1 +1,1 @@
-Lab works on IC for AS2025
+Lab works on Integrated System for AS2025
