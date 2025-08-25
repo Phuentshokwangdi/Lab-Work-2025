@@ -1,0 +1,26 @@
+{
+    "student1": {
+        "firstname": "pema",
+        "lastname": "Dorji",
+        "department": "IT",
+        "year": "4"
+    },
+    "student2": {
+        "firstname": "sonam",
+        "lastname": "zangmo",
+        "department": "IT",
+        "year": "1"
+    },
+    "student3": {
+        "firstname": "dawa",
+        "lastname": "wangdi",
+        "department": "Civil",
+        "year": "2"
+    },
+    "student5": {
+        "firstname": "Karma",
+        "lastname": "Dawa",
+        "department": "ECE",
+        "year": "1"
+    }
+}

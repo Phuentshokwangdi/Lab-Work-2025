@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student_details>
+    <student category="student1">
+        <name>pema</name>
+        <studentno>02220153</studentno>
+        <department>IT</department>
+        <year>4</year>
+        <bloodgroup>o+</bloodgroup>
+    </student>
+
+    <student category="student2">
+        <name>Dorji</name>
+        <studentno>02220167</studentno>
+        <department>Civil</department>
+        <year>4</year>
+        <bloodgroup>A-</bloodgroup>
+    </student>
+
+    <student category="student3">
+        <name>Sonam</name>
+        <studentno>02220122</studentno>
+        <department>Electrical</department>
+        <year>3</year>
+        <bloodgroup>O</bloodgroup>
+    </student>
+
+</student_details>
